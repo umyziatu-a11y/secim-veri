@@ -1,2 +1,3 @@
-ali_koc_total=6218
-sadettin_saran_total=6538
+ali_koc_total=8181
+sadettin_saran_total=8502
+total_
